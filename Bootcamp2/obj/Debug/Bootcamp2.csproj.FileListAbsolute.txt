@@ -1,0 +1,10 @@
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\Bootcamp2.exe.config
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\Bootcamp2.exe
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\Bootcamp2.pdb
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\EntityFramework.dll
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\EntityFramework.xml
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\obj\Debug\Bootcamp2.exe
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\obj\Debug\Bootcamp2.pdb
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp2\Bootcamp2\obj\Debug\Bootcamp2.csprojResolveAssemblyReference.cache
